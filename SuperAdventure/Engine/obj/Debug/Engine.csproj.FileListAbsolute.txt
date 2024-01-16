@@ -1,0 +1,6 @@
+C:\Users\Egitech\Desktop\Create with Code\Personal Project 2\.vs\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\Egitech\Desktop\Create with Code\Personal Project 2\.vs\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\Egitech\Desktop\Create with Code\Personal Project 2\.vs\SuperAdventure\Engine\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Users\Egitech\Desktop\Create with Code\Personal Project 2\.vs\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\Egitech\Desktop\Create with Code\Personal Project 2\.vs\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\Egitech\Desktop\Create with Code\Personal Project 2\.vs\SuperAdventure\Engine\obj\Debug\Engine.pdb
